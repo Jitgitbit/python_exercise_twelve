@@ -11,5 +11,5 @@ git push -u origin main
 pip install matplotlib
 
 
-python3 pandasRecap.py
+python3 matPlotLibRecap.py
 and so on...
