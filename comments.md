@@ -13,3 +13,5 @@ pip install matplotlib
 
 python3 matPlotLibRecap.py
 and so on...
+
+Jupyter notebook --> work it out here or in other notebook platforms to see the graphs!
